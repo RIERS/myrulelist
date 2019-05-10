@@ -4,3 +4,4 @@ PROCESS-NAME,/Library/Application Support/Citrix Receiver/Citrix Viewer.app/Cont
 PROCESS-NAME,/usr/local/libexec/ServiceRecords.app/Contents/MacOS/ServiceRecords
 DOMAIN-SUFFIX,bjedu.cn
 DOMAIN-SUFFIX,gov.cn
+PROCESS-NAME,/Applications/ShadowsocksX-NG-R8.app/Contents/MacOS/ShadowsocksX-NG
