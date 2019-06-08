@@ -6,3 +6,4 @@ DOMAIN-SUFFIX,bjedu.cn
 DOMAIN-SUFFIX,gov.cn
 PROCESS-NAME,/Applications/ShadowsocksX-NG-R8.app/Contents/MacOS/ShadowsocksX-NG
 DOMAIN-SUFFIX,jd.com
+PROCESS-NAME,/Applications/Motrix.app/Contents/MacOS/Motrix
