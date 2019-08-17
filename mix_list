@@ -1,0 +1,36 @@
+PROCESS-NAME,ss-local,Direct
+PROCESS-NAME,/Users/jipeng/Library/Caches/Citrix Receiver/Citrix Workspace Updater.app/Contents/MacOS/Citrix Workspace Updater,Direct
+PROCESS-NAME,/Library/Application Support/Citrix Receiver/Citrix Viewer.app/Contents/MacOS/Citrix Viewer,Direct
+PROCESS-NAME,/usr/local/libexec/ServiceRecords.app/Contents/MacOS/ServiceRecords,Direct
+DOMAIN-SUFFIX,bjedu.cn,Direct
+DOMAIN-SUFFIX,gov.cn,Direct
+PROCESS-NAME,/Applications/ShadowsocksX-NG-R8.app/Contents/MacOS/ShadowsocksX-NG,Direct
+DOMAIN-SUFFIX,jd.com,Direct
+PROCESS-NAME,/Applications/Motrix.app/Contents/MacOS/Motrix,Direct
+DOMAIN-SUFFIX,botanwang.com,Proxy
+DOMAIN-SUFFIX,chinadigitaltimes.net,Proxy
+DOMAIN-SUFFIX,xn--i2ru8q2qg.com,Proxy
+DOMAIN-SUFFIX,phcdn.com,Proxy
+DOMAIN-SUFFIX,mixpanel.com,Proxy
+DOMAIN-SUFFIX,phncdn.com,Proxy
+DOMAIN-SUFFIX,contentdef.com,Proxy
+DOMAIN-SUFFIX,portalcdn.com,Proxy
+DOMAIN-SUFFIX,yandex.ru,Proxy
+DOMAIN-SUFFIX,phprcdn.com,Proxy
+DOMAIN-SUFFIX,etahub.com,Proxy
+DOMAIN-SUFFIX,wenxuecity.com,Proxy
+DOMAIN-SUFFIX,powerapple.com,Proxy
+DOMAIN-SUFFIX,boxun.com,Proxy
+DOMAIN-SUFFIX,qidian.com,Proxy
+DOMAIN-KEYWORD,duyaoss,Proxy
+DOMAIN-KEYWORD,nexitally,Proxy
+DOMAIN-KEYWORD,dlercloud,Proxy
+DOMAIN-SUFFIX,maying.co,Proxy
+DOMAIN-KEYWORD,i3d,Proxy
+DOMAIN-KEYWORD,speed,Proxy
+DOMAIN-KEYWORD,rixcloud,Proxy
+DOMAIN-KEYWORD,tiktok,Proxy
+DOMAIN-KEYWORD,measurement,Proxy
+DOMAIN-KEYWORD,snssdk,Proxy
+DOMAIN-KEYWORD,byteoversea,Proxy
+DOMAIN-KEYWORD,appledaily,Proxy
