@@ -33,3 +33,4 @@
 - DOMAIN-KEYWORD,exhentai,Proxy
 - DOMAIN-SUFFIX,g.co,Proxy
 - DOMAIN-KEYWORD,gmarket,Proxy
+- DOMAIN-SUFFIX,ocsp.apple.com,Proxy
