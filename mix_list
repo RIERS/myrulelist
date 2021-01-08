@@ -21,7 +21,6 @@ DOMAIN-SUFFIX,etahub.com,Proxy
 DOMAIN-SUFFIX,wenxuecity.com,Proxy
 DOMAIN-SUFFIX,powerapple.com,Proxy
 DOMAIN-SUFFIX,boxun.com,Proxy
-DOMAIN-SUFFIX,qidian.com,Proxy
 DOMAIN-KEYWORD,duyaoss,Proxy
 DOMAIN-KEYWORD,nexitally,Proxy
 DOMAIN-KEYWORD,dlercloud,Proxy
@@ -39,4 +38,4 @@ DOMAIN-KEYWORD,e-hentai,Proxy
 DOMAIN-KEYWORD,exhentai,Proxy
 DOMAIN-SUFFIX,g.co,Proxy
 DOMAIN-KEYWORD,gmarket,Proxy
-DOMAIN-SUFFIX,ocsp.apple.com,Proxy
+
