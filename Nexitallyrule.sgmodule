@@ -2,28 +2,28 @@
 #!desc=适用于Nexitally的自定义规则
 [Rule]
 DOMAIN-SUFFIX,emby.nexitally.com,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-SUFFIX,botanwang.com,Nexitally
-DOMAIN-SUFFIX,chinadigitaltimes.net,Nexitally
-DOMAIN-SUFFIX,xn--i2ru8q2qg.com,Nexitally
-DOMAIN-SUFFIX,mixpanel.com,Nexitally
-DOMAIN-SUFFIX,phncdn.com,Nexitally
-DOMAIN-SUFFIX,contentdef.com,Nexitally
-DOMAIN-SUFFIX,portalcdn.com,Nexitally
-DOMAIN-SUFFIX,yandex.ru,Nexitally
-DOMAIN-SUFFIX,phprcdn.com,Nexitally
-DOMAIN-SUFFIX,etahub.com,Nexitally
-DOMAIN-SUFFIX,wenxuecity.com,Nexitally
-DOMAIN-SUFFIX,powerapple.com,Nexitally
-DOMAIN-SUFFIX,boxun.com,Nexitally
-DOMAIN-SUFFIX,qidian.com,Nexitally
-DOMAIN-KEYWORD,duyaoss,Nexitally
-DOMAIN-KEYWORD,measurement,Nexitally
-DOMAIN-KEYWORD,snssdk,Nexitally
-DOMAIN-KEYWORD,byteoversea,Nexitally
-DOMAIN-KEYWORD,appledaily,Nexitally
-DOMAIN-KEYWORD,233blog,Nexitally
-DOMAIN-KEYWORD,233v2,Nexitally
-DOMAIN-KEYWORD,weread,Nexitally
-DOMAIN-KEYWORD,e-hentai,Nexitally
-DOMAIN-KEYWORD,exhentai,Nexitally
-DOMAIN-SUFFIX,g.co,Nexitally
+DOMAIN-SUFFIX,botanwang.com,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-SUFFIX,chinadigitaltimes.net,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-SUFFIX,xn--i2ru8q2qg.com,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-SUFFIX,mixpanel.com,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-SUFFIX,phncdn.com,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-SUFFIX,contentdef.com,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-SUFFIX,portalcdn.com,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-SUFFIX,yandex.ru,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-SUFFIX,phprcdn.com,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-SUFFIX,etahub.com,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-SUFFIX,wenxuecity.com,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-SUFFIX,powerapple.com,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-SUFFIX,boxun.com,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-SUFFIX,qidian.com,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-KEYWORD,duyaoss,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-KEYWORD,measurement,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-KEYWORD,snssdk,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-KEYWORD,byteoversea,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-KEYWORD,appledaily,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-KEYWORD,233blog,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-KEYWORD,233v2,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-KEYWORD,weread,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-KEYWORD,e-hentai,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-KEYWORD,exhentai,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-SUFFIX,g.co,🇺🇸 United States 16 [Emby] [0.3x]
