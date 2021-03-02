@@ -1,31 +1,31 @@
 #!name=Rules For Nexitally
 #!desc=适用于Nexitally的自定义规则
 [Rule]
-DOMAIN-SUFFIX,emby.nexitally.com,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-SUFFIX,botanwang.com,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-SUFFIX,chinadigitaltimes.net,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-SUFFIX,xn--i2ru8q2qg.com,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-SUFFIX,mixpanel.com,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-SUFFIX,phncdn.com,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-SUFFIX,contentdef.com,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-SUFFIX,portalcdn.com,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-SUFFIX,yandex.ru,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-SUFFIX,phprcdn.com,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-SUFFIX,etahub.com,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-SUFFIX,wenxuecity.com,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-SUFFIX,powerapple.com,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-SUFFIX,boxun.com,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-SUFFIX,qidian.com,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-KEYWORD,duyaoss,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-KEYWORD,measurement,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-KEYWORD,snssdk,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-KEYWORD,byteoversea,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-KEYWORD,appledaily,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-KEYWORD,233blog,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-KEYWORD,233v2,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-KEYWORD,weread,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-KEYWORD,e-hentai,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-KEYWORD,exhentai,🇺🇸 United States 16 [Emby] [0.3x]
-DOMAIN-SUFFIX,g.co,🇺🇸 United States 16 [Emby] [0.3x]
+DOMAIN-SUFFIX,emby.nexitally.com,EMBY
+DOMAIN-SUFFIX,botanwang.com,EMBY
+DOMAIN-SUFFIX,chinadigitaltimes.net,EMBY
+DOMAIN-SUFFIX,xn--i2ru8q2qg.com,EMBY
+DOMAIN-SUFFIX,mixpanel.com,EMBY
+DOMAIN-SUFFIX,phncdn.com,EMBY
+DOMAIN-SUFFIX,contentdef.com,EMBY
+DOMAIN-SUFFIX,portalcdn.com,EMBY
+DOMAIN-SUFFIX,yandex.ru,EMBY
+DOMAIN-SUFFIX,phprcdn.com,EMBY
+DOMAIN-SUFFIX,etahub.com,EMBY
+DOMAIN-SUFFIX,wenxuecity.com,EMBY
+DOMAIN-SUFFIX,powerapple.com,EMBY
+DOMAIN-SUFFIX,boxun.com,EMBY
+DOMAIN-SUFFIX,qidian.com,EMBY
+DOMAIN-KEYWORD,duyaoss,EMBY
+DOMAIN-KEYWORD,measurement,EMBY
+DOMAIN-KEYWORD,snssdk,EMBY
+DOMAIN-KEYWORD,byteoversea,EMBY
+DOMAIN-KEYWORD,appledaily,EMBY
+DOMAIN-KEYWORD,233blog,EMBY
+DOMAIN-KEYWORD,233v2,EMBY
+DOMAIN-KEYWORD,weread,EMBY
+DOMAIN-KEYWORD,e-hentai,EMBY
+DOMAIN-KEYWORD,exhentai,EMBY
+DOMAIN-SUFFIX,g.co,EMBY
 [Script]
 Sub-Store 自动同步 = type=cron,cronexp=0 12 * * *, script-path=https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/scripts/cron-sync-artifacts.js
