@@ -1,6 +1,0 @@
-#!name=My DoH
-#!desc=Enable DNS over HTTPS (DoH) with dh-dns.global-idc DNS.
-
-[General]
-doh-format = wireformat
-doh-server = https://dh-dns.global-idc.net/dns-query
