@@ -1,6 +1,5 @@
 #!name=Rules For Nexitally
 #!desc=适用于Nexitally的自定义规则
-
 [Rule]
 DOMAIN-SUFFIX,botanwang.com,Nexitally
 DOMAIN-SUFFIX,chinadigitaltimes.net,Nexitally
