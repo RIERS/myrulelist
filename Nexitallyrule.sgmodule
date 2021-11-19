@@ -2,3 +2,4 @@
 #!desc=适用于Nexitally的自定义规则
 [Rule]
 DOMAIN-KEYWORD,pornemby,Nexitally
+DOMAIN-SUFFIX,emby.nexitally.com,🇺🇸 United States 03
