@@ -1,35 +1,4 @@
 #!name=Rules For Nexitally
 #!desc=适用于Nexitally的自定义规则
 [Rule]
-DOMAIN-SUFFIX,botanwang.com,Nexitally
-DOMAIN-SUFFIX,chinadigitaltimes.net,Nexitally
-DOMAIN-SUFFIX,xn--i2ru8q2qg.com,Nexitally
-DOMAIN-SUFFIX,mixpanel.com,Nexitally
-DOMAIN-SUFFIX,phncdn.com,Nexitally
-DOMAIN-SUFFIX,contentdef.com,Nexitally
-DOMAIN-SUFFIX,portalcdn.com,Nexitally
-DOMAIN-SUFFIX,yandex.ru,Nexitally
-DOMAIN-SUFFIX,phprcdn.com,Nexitally
-DOMAIN-SUFFIX,etahub.com,Nexitally
-DOMAIN-SUFFIX,wenxuecity.com,Nexitally
-DOMAIN-SUFFIX,powerapple.com,Nexitally
-DOMAIN-SUFFIX,boxun.com,Nexitally
-DOMAIN-SUFFIX,qidian.com,Nexitally
-DOMAIN-SUFFIX,g.co,Nexitally
-DOMAIN-SUFFIX,worldometers.info,Nexitally
-DOMAIN-KEYWORD,duyaoss,Nexitally
-DOMAIN-KEYWORD,measurement,Nexitally
-DOMAIN-KEYWORD,snssdk,Nexitally
-DOMAIN-KEYWORD,byteoversea,Nexitally
-DOMAIN-KEYWORD,appledaily,Nexitally
-DOMAIN-KEYWORD,233blog,Nexitally
-DOMAIN-KEYWORD,233v2,Nexitally
-DOMAIN-KEYWORD,weread,Nexitally
-DOMAIN-KEYWORD,e-hentai,Nexitally
-DOMAIN-KEYWORD,exhentai,Nexitally
-DOMAIN-SUFFIX,pornemby.club,Nexitally
-DOMAIN-KEYWORD,clic,Direct
-DOMAIN-KEYWORD,vdesk,Direct
-DOMAIN-KEYWORD,e-chinalife,Direct
-[Script]
-Sub-Store 自动同步 = type=cron,cronexp=40 0-23 * * *, script-path=https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/scripts/cron-sync-artifacts.js
+DOMAIN-KEYWORD,pornemby,Nexitally
