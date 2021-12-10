@@ -1,8 +1,8 @@
 #!name=Rules For Nexitally
 #!desc=适用于Nexitally的自定义规则
 [Rule]
-DOMAIN-KEYWORD,pornemby,Proxy
-DOMAIN-KEYWORD,emby,Proxy
+DOMAIN-KEYWORD,pornemby,HK
+DOMAIN-KEYWORD,emby,HK
 DOMAIN-SUFFIX,emby.nexitally.com,🇺🇸 United States 03
 
 #[Script]
