@@ -2,7 +2,7 @@
 #!desc=适用于Nexitally的自定义规则
 [Rule]
 DOMAIN-KEYWORD,pornemby,HK
-DOMAIN-KEYWORD,emby,HK
+DOMAIN-SUFFIX,emby.wtf,HK
 DOMAIN-SUFFIX,emby.nexitally.com,🇺🇸 United States 03
 
 #[Script]
