@@ -1,9 +1,9 @@
 #!name=Rules For Nexitally
 #!desc=适用于Nexitally的自定义规则
 [Rule]
-DOMAIN-KEYWORD,pornemby,HK
-DOMAIN-SUFFIX,emby.wtf,HK
-DOMAIN-SUFFIX,emby.nexitally.com,US
+DOMAIN-KEYWORD,pornemby,Nexitally
+DOMAIN-SUFFIX,emby.wtf,Nexitally
+#DOMAIN-SUFFIX,emby.nexitally.com,US
 
 #[Script]
 #Sub-Store 自动同步 = type=cron,cronexp=0 12 * * *, script-path=https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/scripts/cron-sync-artifacts.js
